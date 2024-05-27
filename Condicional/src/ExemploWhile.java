@@ -19,6 +19,6 @@ public static void main(String[] args) {
         */
    }
    private static double valorAleatorio() {
-	return ThreadLocalRandom.current().nextDouble(2, 8);
+	return ThreadLocalRandom.current().nextDouble(2, 15);
    }
 }
